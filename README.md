@@ -223,8 +223,8 @@ EquipmentIQ/
 ### Step 1: Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
-cd EquipmentIQ
+git clone https://github.com/callmeabhie/EquipmentIQ-Industrial-Energy-Anomaly-Detection.git
+cd EquipmentIQ-Industrial-Energy-Anomaly-Detection
 ```
 
 ### Step 2: Install dependencies
@@ -299,7 +299,7 @@ docker compose up
 
 Access the API documentation:
 
-`http://localhost:8000/docs`
+http://localhost:8001/docs
 
 ## 13. Limitations and Future Improvements
 
