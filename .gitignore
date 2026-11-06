@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+.env
+*.log
+*.zip
+.DS_Store
+Thumbs.db
+artifacts/equipmentiq_model.joblib
+tests/Untitled.ipynb

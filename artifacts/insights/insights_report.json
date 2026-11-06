@@ -1,0 +1,34 @@
+{
+    "total_excess_energy_kwh": 958.337,
+    "total_estimated_cost_loss": 115.0,
+    "energy_cost_per_kwh": 0.12,
+    "assets": [
+        {
+            "asset_id": "Chiller-01",
+            "baseline_power_kw": 149.92,
+            "total_excess_energy_kwh": 743.264,
+            "estimated_cost_loss": 89.19,
+            "power_surge_records": 100,
+            "sensor_freeze_records": 16,
+            "degradation_records": 679
+        },
+        {
+            "asset_id": "Compressor-02",
+            "baseline_power_kw": 109.89,
+            "total_excess_energy_kwh": 114.147,
+            "estimated_cost_loss": 13.7,
+            "power_surge_records": 15,
+            "sensor_freeze_records": 16,
+            "degradation_records": 0
+        },
+        {
+            "asset_id": "Pump-03",
+            "baseline_power_kw": 65.0,
+            "total_excess_energy_kwh": 100.926,
+            "estimated_cost_loss": 12.11,
+            "power_surge_records": 15,
+            "sensor_freeze_records": 0,
+            "degradation_records": 0
+        }
+    ]
+}

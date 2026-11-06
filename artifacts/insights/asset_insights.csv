@@ -1,0 +1,4 @@
+asset_id,baseline_power_kw,total_excess_energy_kwh,estimated_cost_loss,power_surge_records,sensor_freeze_records,degradation_records
+Chiller-01,149.92,743.264,89.19,100,16,679
+Compressor-02,109.89,114.147,13.7,15,16,0
+Pump-03,65.0,100.926,12.11,15,0,0

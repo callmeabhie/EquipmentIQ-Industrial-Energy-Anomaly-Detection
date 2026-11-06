@@ -1,0 +1,10 @@
+
+services:
+  equipmentiq:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: equipmentiq-bonus-api
+    ports:
+      - "8001:8000"
+    restart: unless-stopped
